@@ -1,58 +1,96 @@
-<h1 align="center">Hi 👋, I'm Mohanad Zaqout</h1>
-<h3 align="center">Flutter Developer & Team Lead | Full-Stack Mobile Developer from Gaza, Palestine 🇵🇸</h3>
+<div align="center">
 
-<p align="center">
-  <img src="file:///C:/Users/mohnad/Desktop/Professional%20Workspace%20Portrait.png" />
-</p>
+# Hi 👋, I'm Mohanad Zaqout
 
-# 💫 About Me:
-📱 Flutter developer & team lead with 3+ years of experience, building production apps with Clean Architecture, Riverpod, go_router and Firebase<br>
-🎓 B.Sc. in Mobile Computing & Smart Devices Applications — Islamic University of Gaza<br>
-🌐 Building full-stack apps: Flutter on the front, Node.js / Express / MongoDB on the back<br>
-🛒 Passionate about products for the Arabic market: debt tracking, POS systems, store management, booking platforms<br>
-💼 Open to freelance work and collaboration
+### Full-Stack Mobile & Web Developer | Flutter · Node.js · React
 
-## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://mohanad-2003.github.io/portfolio/portfolio.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohanad-zaqout-b2462b3a1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohnadzakoot34@gmail.com)
+**Building reliable, scalable digital products — from mobile experiences to APIs and dashboards.**
 
-# 🚀 Featured Projects:
-| Project | Description |
-|---|---|
-| [**Nabvera**](https://github.com/mohanad-2003/Nabvera) | Fitness & wellness app with a Node.js / Express / MongoDB backend |
-| [**Bank-App**](https://github.com/mohanad-2003/Bank-App) | Modern mobile banking app: account management, money transfers, bill payments |
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://mohanad-2003.github.io/portfolio/portfolio.html)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohanad-zaqout-b2462b3a1)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohnadzakoot34@gmail.com)
 
-<a name="tech-stack"></a>
-# 💻 Tech Stack:
-<p align="left">
-<a href="#tech-stack"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/-Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+</div>
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=mohanad-2003&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohanad-2003&theme=github_dark&hide_border=true&layout=compact" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohanad-2003&theme=github_dark&hide_border=true" />
-</p>
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a **Flutter developer and team lead with 3+ years of experience**, focused on building maintainable mobile apps and full-stack systems that solve real business problems.
+
+- 📱 **Mobile:** Flutter, Dart, Riverpod, Clean Architecture, go_router, Firebase
+- 🌐 **Backend & web:** Node.js, Express, REST APIs, React / Next.js
+- 🗄️ **Data:** PostgreSQL, Prisma, MongoDB, SQLite
+- 🤝 **Engineering workflow:** Git, GitHub, team collaboration, code reviews, automated testing and CI/CD
+- 🎓 **Education:** B.Sc. in Mobile Computing & Smart Devices Applications — Islamic University of Gaza
+- 💼 **Open to:** Freelance projects, software engineering opportunities and collaboration
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack / Stage |
+|:--|:--|:--|
+| **Vellora** | End-to-end e-commerce platform featuring a mobile shopping app, admin dashboard and REST API. | Flutter · Node.js · PostgreSQL · React — **In development** |
+| **Rxora** | Pharmacy management SaaS for inventory, purchasing, sales, reporting and pharmacy operations. | Node.js · Express · PostgreSQL · Prisma · React — **Pilot preparation** |
+| [**Nabvera**](https://github.com/mohanad-2003/Nabvera) | Fitness platform for workouts, progress tracking, challenges and reminders. | Flutter · Node.js · Express · MongoDB |
+| [**Sun Gate App**](https://github.com/mohanad-2003/Sun-Gate-App) | Mobile application with authentication, user profiles, localization and API integration. | Flutter · Riverpod · Dio · go_router |
+| [**Bank App**](https://github.com/mohanad-2003/Bank-App) | Mobile banking UI and flows for account management, transfers and payments. | Mobile application |
+
+> **Note:** Vellora and Rxora are development / pilot-stage projects, not public production launches.
+
+## 🛠️ Tech Stack
+
+**Mobile & Frontend**
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+
+**Tools, Testing & Deployment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+## ⚙️ How I Work
+
+I care about **readable code, clear architecture, predictable state management, secure APIs and collaborative delivery**.
+
+- Organize Flutter projects into maintainable features and layers.
+- Design APIs and database models with validation, authentication and data integrity in mind.
+- Use branches, pull requests, reviews and automated checks to collaborate safely.
+- Focus on responsive interfaces and practical Arabic / English localization.
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" alt="GitHub statistics" src="https://github-readme-stats.shion.dev/api?username=mohanad-2003&theme=github_dark&hide_border=true&show_icons=true" />
+<img height="165" alt="Most-used public repository languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohanad-2003&theme=github_dark&hide_border=true&layout=compact" />
+
+<img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=mohanad-2003&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Have a project in mind?** [Let's connect on LinkedIn](https://linkedin.com/in/mohanad-zaqout-b2462b3a1) or [send me an email](mailto:mohnadzakoot34@gmail.com).
+
+</div>
