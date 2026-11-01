@@ -32,8 +32,6 @@ I'm a **Flutter developer and team lead with 3+ years of experience**, focused o
 | **Vellora** | End-to-end e-commerce platform featuring a mobile shopping app, admin dashboard and REST API. | Flutter · Node.js · PostgreSQL · React — **In development** |
 | **Rxora** | Pharmacy management SaaS for inventory, purchasing, sales, reporting and pharmacy operations. | Node.js · Express · PostgreSQL · Prisma · React — **Pilot preparation** |
 | [**Nabvera**](https://github.com/mohanad-2003/Nabvera) | Fitness platform for workouts, progress tracking, challenges and reminders. | Flutter · Node.js · Express · MongoDB |
-| [**Sun Gate App**](https://github.com/mohanad-2003/Sun-Gate-App) | Mobile application with authentication, user profiles, localization and API integration. | Flutter · Riverpod · Dio · go_router |
-| [**Bank App**](https://github.com/mohanad-2003/Bank-App) | Mobile banking UI and flows for account management, transfers and payments. | Mobile application |
 
 > **Note:** Vellora and Rxora are development / pilot-stage projects, not public production launches.
 
