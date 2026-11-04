@@ -33,7 +33,6 @@ I'm a **Flutter developer and team lead** — building with Flutter since 2023 a
 | **Rxora** *(private repo)* | Pharmacy management SaaS for inventory, purchasing, sales, reporting and pharmacy operations. | Node.js · Express · PostgreSQL · Prisma · React — **Pilot preparation** |
 | [**Nabvera**](https://github.com/mohanad-2003/Nabvera) | Fitness platform for workouts, progress tracking, challenges and reminders. | Flutter · Node.js · Express · MongoDB |
 | [**Darna**](https://github.com/mohanad-2003/darna-mobile) | Arabic RTL property marketplace app (sale & rent) with phone OTP sign-in, listings and inquiries. | Flutter · Dart |
-| [**Gaza News API**](https://github.com/mohanad-2003/gaza-news-api) | REST API that scrapes and serves Gaza news with validation and rate limiting. | Node.js · Express · MongoDB |
 
 > **Note:** Vellora and Rxora are development / pilot-stage projects, not public production launches.
 
