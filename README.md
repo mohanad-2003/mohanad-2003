@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Flutter developer and team lead with 3+ years of experience**, focused on building maintainable mobile apps and full-stack systems that solve real business problems.
+I'm a **Flutter developer and team lead** — building with Flutter since 2023 and freelancing professionally since 2025 — focused on building maintainable mobile apps and full-stack systems that solve real business problems.
 
 - 📱 **Mobile:** Flutter, Dart, Riverpod, Clean Architecture, go_router, Firebase
 - 🌐 **Backend & web:** Node.js, Express, REST APIs, React / Next.js
@@ -29,9 +29,11 @@ I'm a **Flutter developer and team lead with 3+ years of experience**, focused o
 
 | Project | What it does | Stack / Stage |
 |:--|:--|:--|
-| **Vellora** | End-to-end e-commerce platform featuring a mobile shopping app, admin dashboard and REST API. | Flutter · Node.js · PostgreSQL · React — **In development** |
-| **Rxora** | Pharmacy management SaaS for inventory, purchasing, sales, reporting and pharmacy operations. | Node.js · Express · PostgreSQL · Prisma · React — **Pilot preparation** |
+| [**Vellora**](https://github.com/mohanad-2003/Vellora) | End-to-end e-commerce platform featuring a mobile shopping app, admin dashboard and REST API. | Flutter · Node.js · PostgreSQL · React — **In development** |
+| **Rxora** *(private repo)* | Pharmacy management SaaS for inventory, purchasing, sales, reporting and pharmacy operations. | Node.js · Express · PostgreSQL · Prisma · React — **Pilot preparation** |
 | [**Nabvera**](https://github.com/mohanad-2003/Nabvera) | Fitness platform for workouts, progress tracking, challenges and reminders. | Flutter · Node.js · Express · MongoDB |
+| [**Darna**](https://github.com/mohanad-2003/darna-mobile) | Arabic RTL property marketplace app (sale & rent) with phone OTP sign-in, listings and inquiries. | Flutter · Dart |
+| [**Gaza News API**](https://github.com/mohanad-2003/gaza-news-api) | REST API that scrapes and serves Gaza news with validation and rate limiting. | Node.js · Express · MongoDB |
 
 > **Note:** Vellora and Rxora are development / pilot-stage projects, not public production launches.
 
@@ -77,9 +79,6 @@ I care about **readable code, clear architecture, predictable state management, 
 ## 📊 GitHub Activity
 
 <div align="center">
-
-<img height="165" alt="GitHub statistics" src="https://github-readme-stats.shion.dev/api?username=mohanad-2003&theme=github_dark&hide_border=true&show_icons=true" />
-<img height="165" alt="Most-used public repository languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohanad-2003&theme=github_dark&hide_border=true&layout=compact" />
 
 <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=mohanad-2003&theme=github_dark&hide_border=true" />
 
